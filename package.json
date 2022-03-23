@@ -1,0 +1,27 @@
+{
+  "name": "launch-library-node",
+  "version": "1.0.0",
+  "description": "An unoficcial node.js wrapper for the Launch Library 2 API",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayKeegan/launch-library-node.git"
+  },
+  "keywords": [
+    "Launch",
+    "Wrapper",
+    "Space"
+  ],
+  "author": "Jay Keegan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayKeegan/launch-library-node/issues"
+  },
+  "homepage": "https://github.com/jayKeegan/launch-library-node#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
